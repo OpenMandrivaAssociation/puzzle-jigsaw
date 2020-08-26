@@ -23,7 +23,6 @@ of often oddly shaped interlocking and mosaiced pieces.
 %setup -q
 
 %build
-lrelease-qt5 %{name}.pro
 %qmake_qt5
 %make
 
