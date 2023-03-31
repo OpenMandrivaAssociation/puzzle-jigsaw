@@ -1,6 +1,6 @@
 Name:           puzzle-jigsaw
 Version:        1.0.2
-Release:        1
+Release:        2
 Summary:        Tiling puzzle that requires the assembly mosaiced pieces
 Group:          Games/Puzzles
 License:        GPLv3+
